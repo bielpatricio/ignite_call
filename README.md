@@ -1,6 +1,3 @@
-# ignite_call
-Ignite Call, project using @biel-ui/react
-
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
@@ -16,8 +13,8 @@ Ignite Call, project using @biel-ui/react
 
 <p align="center">
     <p><a href="#about-the-project" title=" go to About the Project">About The Project</a></p>
-    <p><a href="#Layout" title=" go to Layout">Layout</a></p>
-    <p><a href="#Running locally" title=" go to Running locally">Running locally</a></p>
+    <p><a href="#running-locally" title=" go to Running locally">Running locally</a></p>
+    <p><a href="#prints-e-layout" title=" go to Prints e Layout">Layout</a></p>
     <p><a href="#contact" title=" go to Contact">Contact</a></p>
   </p>
 
