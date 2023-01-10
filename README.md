@@ -55,6 +55,8 @@ The application layout is available on Figma:
 </a>
 <br>
 
+
+<img src="https://user-images.githubusercontent.com/32223762/211654737-18d166b5-e82f-45d2-a023-26d366d32d00.png" width="700">
 <img src="https://user-images.githubusercontent.com/32223762/211641132-fca51d7b-5672-451f-92e5-782eb2a19298.png" width="700">
 <img src="https://user-images.githubusercontent.com/32223762/211640975-7ee4747a-cc08-40e8-b448-101b3db988b8.png" width="700">
 <img src="https://user-images.githubusercontent.com/32223762/211641336-9e03fe3b-c3f3-4e84-b11c-b6654a0b76f4.png" width="700">
@@ -67,6 +69,7 @@ The application layout is available on Figma:
 <img src="https://user-images.githubusercontent.com/32223762/211642418-6bfa2e93-0a03-4430-81d9-2f7f3d4dd329.png" width="700">
 <img src="https://user-images.githubusercontent.com/32223762/211643428-f836c2ab-c3cc-4ee7-b9b2-939e7b3df794.png" width="700">
 <img src="https://user-images.githubusercontent.com/32223762/211644521-22d49849-f8e2-4153-a7ff-8addc24844e9.png" width="700">
+
 <br>
 
 # Contact
